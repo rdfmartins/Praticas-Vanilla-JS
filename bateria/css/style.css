@@ -1,0 +1,59 @@
+html {
+  font-size: 8px;
+  background: url("/img/background.jpg") bottom center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.container {
+  height: 100%;
+  padding-top: 300px;
+}
+.keys {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  height: 500px;
+}
+.key {
+  border: 0.5rem solid black;
+  border-radius: 5px;
+  margin: 1rem;
+  font-size: 3rem;
+  padding: 1rem 1rem;
+  transition: all 0.07s ease; /**/
+  width: 50px;
+  text-align: center;
+  color: white;
+  background: rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 0.5rem black;
+  line-height: 20px;
+}
+
+.playing {
+  transform: scale(1.1);
+  border-color: #ffc600;
+  box-shadow: 0 0 5px #ffc600;
+}
+
+kbd {
+  display: block;
+  font-size: a;
+}
+
+.sound {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  color: #ffc600;
+}
