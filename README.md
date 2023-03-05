@@ -1,8 +1,9 @@
 # Praticas-Vanilla-JS
+
 Estudos e praticas em Vanilla JavaScript.
 Bem-vindo ao meu repositório de estudos e práticas em Vanilla JavaScript!
 
-Neste arquivo .readme, você encontrará informações sobre o conteúdo deste repositório e como ele me ajudou a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
+Nele você encontrará informações sobre o conteúdo deste repositório e como ele esta me ajudando a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
 
 Este repositório é voltado para estudantes e desenvolvedores que desejam aprimorar suas habilidades em JavaScript e aprender as melhores práticas de programação. Os exemplos de código foram criados com base em problemas reais de desenvolvimento, portanto, são uma ótima maneira de se familiarizar com as nuances da linguagem.
 
@@ -13,6 +14,7 @@ Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript
 ![background](https://user-images.githubusercontent.com/24417777/222984373-df9340a5-eec0-4df1-957c-413d66cd2e5e.jpg)
 
 # Practices-Vanilla-JS
+
 Welcome to my repository of studies and practices in Vanilla JavaScript!
 
 In this .readme file, you will find information about the contents of this repository and how it has helped me improve my skills in JavaScript. Here, you will find code examples, exercises, and projects developed using pure JavaScript, without the use of libraries or frameworks.
