@@ -11,7 +11,7 @@ Sinta-se à vontade para explorar os arquivos deste repositório, cloná-lo para
 Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript!
 
 
-Practices-Vanilla-JS
+# Practices-Vanilla-JS
 Welcome to my repository of studies and practices in Vanilla JavaScript!
 
 In this .readme file, you will find information about the contents of this repository and how it has helped me improve my skills in JavaScript. Here, you will find code examples, exercises, and projects developed using pure JavaScript, without the use of libraries or frameworks.
