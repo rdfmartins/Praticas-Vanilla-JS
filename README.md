@@ -10,6 +10,7 @@ Sinta-se à vontade para explorar os arquivos deste repositório, cloná-lo para
 
 Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript!
 
+![background](https://user-images.githubusercontent.com/24417777/222984373-df9340a5-eec0-4df1-957c-413d66cd2e5e.jpg)
 
 # Practices-Vanilla-JS
 Welcome to my repository of studies and practices in Vanilla JavaScript!
