@@ -3,7 +3,11 @@
 Estudos e praticas em Vanilla JavaScript.
 Bem-vindo ao meu repositório de estudos e práticas em Vanilla JavaScript!
 
+<<<<<<< HEAD
 Nele você encontrará informações sobre o conteúdo deste repositório e como ele esta me ajudando a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
+=======
+Nele você encontrará informações sobre o conteúdo deste repositório e como ele me ajudou a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
+>>>>>>> 31516a5b67f4373217e64a26c987b6470f54b282
 
 Este repositório é voltado para estudantes e desenvolvedores que desejam aprimorar suas habilidades em JavaScript e aprender as melhores práticas de programação. Os exemplos de código foram criados com base em problemas reais de desenvolvimento, portanto, são uma ótima maneira de se familiarizar com as nuances da linguagem.
 
@@ -17,7 +21,7 @@ Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript
 
 Welcome to my repository of studies and practices in Vanilla JavaScript!
 
-In this .readme file, you will find information about the contents of this repository and how it has helped me improve my skills in JavaScript. Here, you will find code examples, exercises, and projects developed using pure JavaScript, without the use of libraries or frameworks.
+You will find information about the contents of this repository and how it has helped me improve my skills in JavaScript. Here, you will find code examples, exercises, and projects developed using pure JavaScript, without the use of libraries or frameworks.
 
 This repository is aimed at students and developers who wish to improve their skills in JavaScript and learn best programming practices. The code examples were created based on real development problems, so they are a great way to become familiar with the nuances of the language.
 
