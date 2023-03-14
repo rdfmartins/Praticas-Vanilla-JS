@@ -5,7 +5,7 @@ window.addEventListener("keydown", function (e) {
   const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
 
   // Selelcionada/escuta a class="key"  no html
-  const key = document.querySelector(`.key[dastusta-key="${e.keyCode}"]`);
+  const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
 
   if (!audio) return; // Para a função se não tiver audio
   audio.currentTime = 0; // Reinicia o audio do 0
@@ -16,7 +16,8 @@ window.addEventListener("keydown", function (e) {
 
   // traz uma array das class .key
   function removeTransition(e) {
-    if (e.propertyName != "transform") return;
+    if (e.propertyName !== "transform") return;
+    this.classList.remove("playing");
     console.log(e.propertyName);
   }
   const keys = document.querySelectorAll(".key");
