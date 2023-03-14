@@ -5,11 +5,11 @@ Bem-vindo ao meu repositório de estudos e práticas em Vanilla JavaScript!
 
 Nele você encontrará informações sobre o conteúdo deste repositório e como ele esta me ajudando a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
 
-Este repositório é voltado para estudantes e desenvolvedores que desejam aprimorar suas habilidades em JavaScript e aprender as melhores práticas de programação. Os exemplos de código foram criados com base em problemas reais de desenvolvimento, portanto, são uma ótima maneira de se familiarizar com as nuances da linguagem.
+Este repositório é voltado para estudantes e desenvolvedores que desejam aprimorar suas habilidades em JavaScript e aprender as melhores práticas de programação. Os exemplos de código foram criados com base em problemas reais de desevolvimento, portanto, são uma ótima maneira de se familiarizar com as nuances da linguagem.
 
 Sinta-se à vontade para explorar os arquivos deste repositório, cloná-lo para sua própria máquina e usá-lo como um recurso de estudo para melhorar suas habilidades em JavaScript. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
 
-Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript!
+Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript!!
 
 ![background](https://user-images.githubusercontent.com/24417777/222984373-df9340a5-eec0-4df1-957c-413d66cd2e5e.jpg)
 
