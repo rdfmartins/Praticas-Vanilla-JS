@@ -57,3 +57,8 @@ kbd {
   letter-spacing: 0.2rem;
   color: #ffc600;
 }
+
+* {
+  box-sizing: border-box;
+  outline: 1px solid limegreen !important;
+}

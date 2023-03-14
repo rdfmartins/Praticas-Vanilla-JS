@@ -3,11 +3,7 @@
 Estudos e praticas em Vanilla JavaScript.
 Bem-vindo ao meu repositório de estudos e práticas em Vanilla JavaScript!
 
-<<<<<<< HEAD
 Nele você encontrará informações sobre o conteúdo deste repositório e como ele esta me ajudando a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
-=======
-Nele você encontrará informações sobre o conteúdo deste repositório e como ele me ajudou a melhorar minhas habilidades em JavaScript. Aqui, você encontrará exemplos de código, exercícios e projetos desenvolvidos usando JavaScript puro, sem o uso de bibliotecas ou frameworks.
->>>>>>> 31516a5b67f4373217e64a26c987b6470f54b282
 
 Este repositório é voltado para estudantes e desenvolvedores que desejam aprimorar suas habilidades em JavaScript e aprender as melhores práticas de programação. Os exemplos de código foram criados com base em problemas reais de desenvolvimento, portanto, são uma ótima maneira de se familiarizar com as nuances da linguagem.
 
