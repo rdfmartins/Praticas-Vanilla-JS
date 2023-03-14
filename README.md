@@ -9,7 +9,7 @@ Este repositório é voltado para estudantes e desenvolvedores que desejam aprim
 
 Sinta-se à vontade para explorar os arquivos deste repositório, cloná-lo para sua própria máquina e usá-lo como um recurso de estudo para melhorar suas habilidades em JavaScript. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
 
-Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript!!
+Divirta-se explorando o repositório e melhorando suas habilidades em JavaScript!
 
 ![background](https://user-images.githubusercontent.com/24417777/222984373-df9340a5-eec0-4df1-957c-413d66cd2e5e.jpg)
 
@@ -23,4 +23,4 @@ This repository is aimed at students and developers who wish to improve their sk
 
 Feel free to explore the files in this repository, clone it to your own machine, and use it as a study resource to improve your skills in JavaScript. If you have any questions or suggestions, don't hesitate to contact me.
 
-Have fun exploring the repository and improving your skills in JavaScript!!
+Have fun exploring the repository and improving your skills in JavaScript!
