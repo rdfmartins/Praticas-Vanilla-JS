@@ -23,4 +23,4 @@ This repository is aimed at students and developers who wish to improve their sk
 
 Feel free to explore the files in this repository, clone it to your own machine, and use it as a study resource to improve your skills in JavaScript. If you have any questions or suggestions, don't hesitate to contact me.
 
-Have fun exploring the repository and improving your skills in JavaScript!
+Have fun exploring the repository and improving your skills in JavaScript!!
